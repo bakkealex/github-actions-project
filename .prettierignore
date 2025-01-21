@@ -3,7 +3,6 @@ node_modules/
 
 .babelrc
 .eslintrc.js
-.eslintrc.cjs
 .gitignore
 .prettierrc
 
